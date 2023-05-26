@@ -8,7 +8,7 @@ Après avoir été minutieusement testé et validé par une agence spécialisée
 Par souci de confidentialité, les images et les textes ont été remplacés.
 
 ### Url rendu du projet :
-https://robin-everaert.github.io/library/
+https://robin-everaert.github.io/email-coding/
 
 ### Points forts : 
 * Conformité aux méthodes, structures et procédures d'intégration E-mailing.
